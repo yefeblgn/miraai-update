@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "0.0.5",
   "apkUrl": "https://github.com/yefeblgn/miraai-update/releases/latest/download/miraai.apk",
-  "notes": "Stability and performance improvements"
+  "notes": "New MiraAI 3.1 Live & Image Models"
 }
